@@ -1,0 +1,4 @@
+#Questy
+
+"Meet your ChatBuddy Questy, your sarcastic yet super friendly digital study companion. Imagine a student friend who’s obsessed with coding and tech, ready to help you tackle assignments and projects step by step—without ever spoon-feeding the answers. ChatBuddy guides you, sparks your curiosity, and makes learning fun, all while cracking witty remarks that keep the mood light. Whether you’re stuck on a tricky problem or exploring something new, she’s the perfect mix of helpful, curious, and tech-savvy, turning every study session into a smart and entertaining adventure." 
+“This project is based on a template shared by Pooja S. Nair during the workshop Open Mic Edition 2: Me, Myself, and My AI, an activity I participated in through TinkerHub. I’ve made modifications and added my own learnings to build on her original work.”
